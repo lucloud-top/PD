@@ -23,6 +23,9 @@ http(s)://youradd/
 **尊重原作者!!!**
 
 **本项目使用[Mozilla 2.0](https://www.mozilla.org/en-US/MPL/)许可证授权**
+
+**如果觉得这个项目对你有用,欢迎星标或打赏**
+[打赏地址](https://afdian.net/@lucloud_hqqr)
 ## 演示地址
 
 [演示站](https://hqqr.lucloud.top)
