@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## 欢迎来到GitHub项目
+# 小型静态程序分发网站
 
-You can use the [editor on GitHub](https://github.com/lucloud-top/PD/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 简介
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本网站采用HTML 5搭建,无需数据库,纯静态,方便个人开发者及中小型企业的程序分发.
 
-### Markdown
+## 配置方法
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> 将压缩包解压到服务器或空间内
+>
+> 打开index.html
+>
+> 修改里面的内容即可
+>
+## 访问方法
 
-```markdown
-Syntax highlighted code block
+http(s)://youradd/
 
-# Header 1
-## Header 2
-### Header 3
+## 注意
 
-- Bulleted
-- List
+**请不要修改页脚的信息!!!!**
 
-1. Numbered
-2. List
+**尊重原作者!!!**
 
-**Bold** and _Italic_ and `Code` text
+**本项目使用[Mozilla 2.0](https://www.mozilla.org/en-US/MPL/)许可证授权**
+## 演示地址
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucloud-top/PD/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[演示站](https://hqqr.lucloud.top)
